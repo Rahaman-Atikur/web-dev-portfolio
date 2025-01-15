@@ -132,3 +132,73 @@ main{
     text-align: left;
 
 }
+/* Resume section style start */
+.title-of-Resume{
+    text-align: center;
+}
+.Edcucation-Experience{
+    display: flex;
+    column-gap: 40px;
+}
+.download-cv-button{
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+    border: none;
+   
+}
+.btn-container{
+    text-align: center;
+}
+/* Style of last page */
+/* Footer Styling */
+.last-page {
+    background-color: #FFF8F3; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 20px;
+}
+
+/* Contact Section */
+/* section.Contact {
+    display: flex; /* Enables flexbox for this section */
+    flex-direction: column; /* Stacks items vertically */
+    align-items: center; /* Centers items horizontally */
+    text-align: center; /* Centers text */
+    gap: 20px; /* Adds spacing between items */
+    width: 100%; /* Ensures full width */
+    max-width: 800px; /* Limits maximum width */
+}
+/* 
+/* Social Media Icons */
+.social-media-icon {
+    display: flex; /* Enables flexbox for social icons */
+    justify-content: center; /* Centers icons horizontally */
+    gap: 15px; /* Adds spacing between icons */
+    margin-top: 10px;
+}
+
+/* Buttons and Input Fields */
+.submit-button {
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit-button:hover {
+    background-color: #FF8A42; /* Hover effect for button */
+}
+
+input {
+    width: 80%; /* Adjust input width */
+    max-width: 400px; /* Limit input width */
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+} */ */
+
