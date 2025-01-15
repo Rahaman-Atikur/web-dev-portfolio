@@ -82,9 +82,53 @@ nav ul{
     background-position: top left,bottom right;
    
 }
-.about-me-part{
-    margin: 230px;
-    /* background-color: #FFF8F3; */
-    background-color: blue;
-    background: 1140px 550px;
+.section-title{
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+}
+.secondary-bg{
+    background-color: #FFF8F3;
+
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    background-color:#FFF8F3;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 112px;
+    text-align: center;
+}
+.about-title{
+    /* background-color: white; */
+    text-align: center;
+
+}
+.about-description{
+    color:#757575;
+    font-size: 18px;
+}
+.about-items{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+}
+/* Main style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* What I do style */
+.title{
+    text-align: center;
+}
+.skills{
+    display: flex;
+    gap: 24px;
+}
+.skills .title{
+    text-align: left;
+
 }
